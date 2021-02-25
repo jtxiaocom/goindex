@@ -1,0 +1,6 @@
+name = "pan"
+type = "webpack"
+account_id = "ad448127e7a6430394083dd07300b6cb"
+workers_dev = true
+route = ""
+zone_id = "60e7d3c0045137c5abb8414e0c909b69"
